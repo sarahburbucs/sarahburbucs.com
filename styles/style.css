@@ -37,6 +37,11 @@ h4 {
 p {
     font-size: 1em;
 }
+
+.nav-link:hover {
+    color: rgba(255,255,255,1);
+}
+
 .navbar-brand {
     font-size: 1.5rem;
 }
